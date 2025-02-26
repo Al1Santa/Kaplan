@@ -18,7 +18,7 @@ On utilise `php -S` pour ne pas être dépendant d'un serveur web
 php -S 0.0.0.0:8080 -t public
 ```
 
-## Création d'une route/controller
+## Création d'une route/controller ==> commande Obselète sur la version 7 de symfony
 
 Pour pouvoir utiliser les annotations et que symfony les lise
 
